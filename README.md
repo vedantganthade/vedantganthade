@@ -1,107 +1,133 @@
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6"/>
+
+<br/>
+
+# Vedant Ganthade
+
+**AI Engineer · Computer Vision Researcher · MS Robotics & Autonomous Systems @ ASU**
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6"/>
+
+<br/>
+
+## About
+
+I design and deploy **computer vision and deep learning systems** that work in production — not just on paper. My work spans medical imaging, real-time human monitoring, and autonomous systems research.
+
+Currently completing my **M.S. in Robotics & Autonomous Systems (AI track)** at Arizona State University.
+Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics.
+
+<br/>
+
+## Experience
+
+**AI Engineer** &nbsp;·&nbsp; Universidad Maria Auxiliadora, Peru &nbsp;`2023 – 2024`
+> Designed and deployed AI-powered virtual laboratory systems for university coursework. Built intelligent features that adapted to student learning patterns in real time.
+
+**Computer Vision Intern** &nbsp;·&nbsp; Yodda Elder Care Technologies &nbsp;`2022 – 2023`
+> Built a sensor-free fall detection system using pose estimation on live camera feeds. Engineered the full pipeline from human detection to emergency alert dispatch — no wearables required. Work led to a funded project and patent filing.
+
+**Student Researcher** &nbsp;·&nbsp; VU Research Centre of Excellence &nbsp;`2021 – 2022`
+> Developed CNN-based MRI brain tumor classifier achieving 96% accuracy across four classes. Research published at IEEE IC3I 2022.
+
+<br/>
+
+## Projects
+
+#### 🔒 ElderSafe Vision &nbsp;`Funded` `Patent Filed`
+> Real-time, sensor-free fall detection and emergency alert system for elderly care environments.
+> Pipeline: `Video Feed → Human Detection → Pose Estimation → Fall Classification → Alert`
+
+`Python` `TensorFlow` `OpenCV` `Pose Estimation` `Deep Learning`
+
+---
+
+#### 🩺 Breast Cancer Segmentation
+> End-to-end mammography analysis pipeline. CLAHE contrast enhancement → VGG16 feature extraction → U-Net pixel-level segmentation. Built for clinical diagnostic support.
+
+`TensorFlow` `U-Net` `VGG16` `CLAHE` `OpenCV`
+
+---
+
+#### 🧠 Brain Tumor MRI Classifier &nbsp;`96% Accuracy` `Published`
+> Multi-class CNN classifier trained on brain MRI scans. Classifies glioma, meningioma, pituitary tumors, and healthy tissue. Published at IEEE IC3I 2022.
+
+`TensorFlow` `CNN` `Medical Imaging` `OpenCV`
+
+---
+
+#### 🎓 Student Attentiveness Monitor
+> Multithreaded real-time attention analysis system using facial landmark detection and eye-state tracking. Designed for low-latency inference on standard classroom hardware.
+
+`Python` `OpenCV` `Dlib` `Multithreading`
+
+---
+
+#### 📉 Student Dropout Prediction
+> Ensemble learning model identifying at-risk students from academic and behavioral signals. Served via REST API with a MySQL backend for institutional integration.
+
+`Scikit-Learn` `FastAPI` `MySQL` `Ensemble Methods`
+
+<br/>
+
+## Publications
+
+**[1]** V. Ganthade et al., "Efficient Segmentation of Breast Cancer Tissues for Diagnostic Accuracy in Ultrasound Images," *Journal, 2024*
+
+**[2]** V. Ganthade et al., "Fall Detection Methods for Elderly People: A Comprehensive Survey,"
+*IEEE IC3I, 2023* · [DOI: 10.1109/IC3I59117.2023.10397811](https://doi.org/10.1109/IC3I59117.2023.10397811)
+
+**[3]** V. Ganthade et al., "An Efficient Deep Learning Based Approach for Detection of Brain Tumors,"
+*IEEE IC3I, 2022* · [DOI: 10.1109/IC3I56241.2022.10073209](https://doi.org/10.1109/IC3I56241.2022.10073209)
+
+**[4]** V. Ganthade et al., "Role of Big Data in Healthcare Systems," *Book Chapter, Elsevier, 2024*
+
+&rarr; Full list on [Google Scholar](YOUR_SCHOLAR_LINK)
+
+<br/>
+
+## Tech Stack
+
+| Category | Tools |
+|:---|:---|
+| **Languages** | Python · C++ · C |
+| **Deep Learning** | TensorFlow · PyTorch · Keras · Scikit-Learn |
+| **Computer Vision** | OpenCV · Dlib · CLAHE · Pose Estimation |
+| **Architectures** | CNN · U-Net · VGG16 · ResNet · Ensemble Methods |
+| **Engineering** | FastAPI · Docker · MySQL · Git · Linux |
+
+<br/>
+
+## Recognition
+
+- 🎓 **ASU AI Scholar** — Arizona State University
+- 📰 **Featured in Times of India** — ElderSafe Vision elder care system
+- 📘 **4 Peer-Reviewed Publications** — IEEE & Elsevier
+- ⚙️ **Patent Filed** — ElderSafe Vision fall detection (funded project)
+- 🌎 **International Engineering Experience** — Peru
+
+<br/>
+
+## GitHub Stats
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vedant+Ganthade;AI+Engineer+%7C+Computer+Vision+%7C+MS+Robotics+%40+ASU)](https://git.io/typing-svg)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_SCHOLAR_LINK)
-
-🎓 **M.S. Robotics & Autonomous Systems (AI)** @ Arizona State University (Expected 2026) &nbsp;•&nbsp;
-🧠 Computer Vision &nbsp;•&nbsp; 🏥 Medical Imaging AI &nbsp;•&nbsp; 🤖 Deep Learning &nbsp;•&nbsp; ⚙️ MLOps
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0E75B6&icon_color=0E75B6&text_color=24292f&count_private=true&hide=stars"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=0E75B6&text_color=24292f&langs_count=6"/>
 
 </div>
 
----
+<br/>
 
-## 👋 About me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6"/>
 
-- I build **end-to-end AI systems** — from raw data and model design through evaluation and real-world deployment.
-- Past work spans **elder care fall detection** (funded + patented), **medical image segmentation**, **brain tumor classification**, and **AI-powered virtual labs**.
-- My research focus sits at the intersection of **computer vision, healthcare AI, and autonomous systems**.
-- Open to: **Summer 2026 AI / Robotics / Computer Vision internships**, research collaborations, and open-source contributions.
-
----
-
-## ✨ Featured Work
-
-| Project | What it is | Tech |
-|:---|:---|:---|
-| 🧓 **[ElderSafe Vision](#)** `Funded · Patent Filed` | Sensor-free real-time fall detection for elderly care — camera feed through pose estimation to emergency alert | Python, TensorFlow, OpenCV, Pose Estimation |
-| 🩺 **[Breast Cancer Segmentation](#)** | End-to-end mammography segmentation: CLAHE preprocessing → VGG16 features → U-Net pixel-level classification | TensorFlow, U-Net, VGG16, CLAHE |
-| 🧠 **[Brain Tumor MRI Classifier](#)** `96% Accuracy` | Multi-class CNN classifier for MRI brain scans; published at IEEE IC3I 2022 | TensorFlow, CNN, OpenCV |
-| 🎓 **[Student Attentiveness Monitor](#)** | Real-time classroom attention analysis via facial landmark and eye-state tracking | Python, OpenCV, Dlib, Multithreading |
-| 📉 **[Student Dropout Prediction](#)** | Ensemble ML pipeline to flag at-risk students; exposed via REST API with MySQL backend | Scikit-Learn, FastAPI, MySQL |
-| 🤖 **[AI Virtual Laboratory System](#)** | AI-driven virtual lab platform deployed for university students in Peru | Python, TensorFlow, FastAPI |
-
-> Replace `#` links above with your actual repo URLs before publishing.
-
----
-
-## 🏆 Achievements
-
-- 🎓 **ASU AI Scholar** — Arizona State University
-- 📰 **Featured in Times of India** for real-time elder care fall detection system
-- 📘 **Published 4 IEEE / Elsevier Research Papers**
-- ⚙️ **Patent Filed** — ElderSafe Vision fall detection system (funded project)
-- 🌎 **International AI Engineering Experience** — Universidad Maria Auxiliadora, Peru
-- 🔬 **Student Researcher** — VU Research Centre of Excellence
-
----
-
-## 📚 Publications
-
-- **Efficient Segmentation of Breast Cancer Tissues for Diagnostic Accuracy in Ultrasound Images**  
-  *(Journal, 2024)*
-
-- **Fall Detection Methods for Elderly People: A Comprehensive Survey**  
-  *(IEEE IC3I, 2023)* — DOI: [10.1109/IC3I59117.2023.10397811](https://doi.org/10.1109/IC3I59117.2023.10397811)
-
-- **An Efficient Deep Learning Based Approach for Detection of Brain Tumors**  
-  *(IEEE IC3I, 2022)* — DOI: [10.1109/IC3I56241.2022.10073209](https://doi.org/10.1109/IC3I56241.2022.10073209)
-
-- **Role of Big Data in Healthcare Systems**  
-  *(Book Chapter, Elsevier, 2024)*
-
-Full list → [Google Scholar](YOUR_SCHOLAR_LINK)
-
----
-
-## 💻 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Engineering & Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_SCHOLAR_LINK)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://github.com/YOUR_USERNAME)
-
+<div align="right">
+<sub>Open to Summer 2026 AI · Robotics · Computer Vision roles &nbsp;·&nbsp; <a href="mailto:YOUR_EMAIL">Get in touch</a></sub>
 </div>
