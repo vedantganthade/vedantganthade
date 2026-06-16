@@ -1,20 +1,25 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6"/>
+<div align="center">
 
-<br/>
+<h1>Vedant Ganthade</h1>
 
-# Vedant Ganthade
+<p><strong>AI Engineer &nbsp;·&nbsp; Computer Vision Researcher &nbsp;·&nbsp; MS Robotics & Autonomous Systems @ ASU</strong></p>
 
-**AI Engineer · Computer Vision Researcher · MS Robotics & Autonomous Systems @ ASU**
-
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6"/>
+<br/><br/>
 
-<br/>
+![](https://img.shields.io/badge/Computer%20Vision-0E75B6?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Medical%20Imaging%20AI-0E75B6?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Deep%20Learning-0E75B6?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Robotics%20%26%20Autonomy-0E75B6?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/MLOps-0E75B6?style=flat-square)
+
+</div>
+
+---
 
 ## About
 
@@ -23,7 +28,7 @@ I design and deploy **computer vision and deep learning systems** that work in p
 Currently completing my **M.S. in Robotics & Autonomous Systems (AI track)** at Arizona State University.
 Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics.
 
-<br/>
+---
 
 ## Experience
 
@@ -36,7 +41,7 @@ Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics
 **Student Researcher** &nbsp;·&nbsp; VU Research Centre of Excellence &nbsp;`2021 – 2022`
 > Developed CNN-based MRI brain tumor classifier achieving 96% accuracy across four classes. Research published at IEEE IC3I 2022.
 
-<br/>
+---
 
 ## Projects
 
@@ -74,7 +79,7 @@ Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics
 
 `Scikit-Learn` `FastAPI` `MySQL` `Ensemble Methods`
 
-<br/>
+---
 
 ## Publications
 
@@ -90,7 +95,7 @@ Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics
 
 &rarr; Full list on [Google Scholar](YOUR_SCHOLAR_LINK)
 
-<br/>
+---
 
 ## Tech Stack
 
@@ -102,7 +107,7 @@ Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics
 | **Architectures** | CNN · U-Net · VGG16 · ResNet · Ensemble Methods |
 | **Engineering** | FastAPI · Docker · MySQL · Git · Linux |
 
-<br/>
+---
 
 ## Recognition
 
@@ -112,7 +117,7 @@ Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics
 - ⚙️ **Patent Filed** — ElderSafe Vision fall detection (funded project)
 - 🌎 **International Engineering Experience** — Peru
 
-<br/>
+---
 
 ## GitHub Stats
 
@@ -124,9 +129,7 @@ Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6"/>
+---
 
 <div align="right">
 <sub>Open to Summer 2026 AI · Robotics · Computer Vision roles &nbsp;·&nbsp; <a href="mailto:YOUR_EMAIL">Get in touch</a></sub>
