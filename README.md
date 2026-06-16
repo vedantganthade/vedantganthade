@@ -1,21 +1,11 @@
+![Header](./header.svg)
+
 <div align="center">
-
-<h1>Vedant Ganthade</h1>
-
-<p><strong>AI Engineer &nbsp;·&nbsp; Computer Vision Researcher &nbsp;·&nbsp; MS Robotics & Autonomous Systems @ ASU</strong></p>
 
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/Computer%20Vision-0E75B6?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Medical%20Imaging%20AI-0E75B6?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Deep%20Learning-0E75B6?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Robotics%20%26%20Autonomy-0E75B6?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/MLOps-0E75B6?style=flat-square)
 
 </div>
 
