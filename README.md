@@ -1,24 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=EBF5FB&fontColor=1C2128&text=Vedant%20Ganthade&fontSize=40&fontAlignY=40&desc=AI%20Engineer%20%20%C2%B7%20%20Computer%20Vision%20Researcher%20%20%C2%B7%20%20MS%20Robotics%20%26%20Autonomous%20Systems%20%40%20ASU&descSize=15&descAlignY=62&descColor=57606A&stroke=BDD7EE&strokeWidth=1"/>
+<h1>Vedant Ganthade</h1>
 
-</div>
-
-<div align="center">
-
-![](https://img.shields.io/badge/Computer%20Vision-EBF5FB?style=flat-square&labelColor=EBF5FB&color=EBF5FB&logoColor=0E75B6)
-![](https://img.shields.io/badge/Computer_Vision-0E75B6?style=flat-square&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Medical_Imaging_AI-0E75B6?style=flat-square&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Deep_Learning-0E75B6?style=flat-square&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Robotics_%26_Autonomy-0E75B6?style=flat-square&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/MLOps-0E75B6?style=flat-square&logoColor=white)
-
-<br/>
+<p>AI Engineer &nbsp;·&nbsp; Computer Vision Researcher &nbsp;·&nbsp; MS Robotics & Autonomous Systems @ ASU</p>
 
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-0E75B6?style=flat-square&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Medical%20Imaging%20AI-0E75B6?style=flat-square&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Deep%20Learning-0E75B6?style=flat-square&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Robotics%20%26%20Autonomy-0E75B6?style=flat-square&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MLOps-0E75B6?style=flat-square&logoColor=white"/>
 
 </div>
 
@@ -126,9 +123,9 @@ Actively seeking **Summer 2026 internships** in AI, Computer Vision, or Robotics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F0F6FC&title_color=0E75B6&icon_color=0E75B6&text_color=1C2128&count_private=true&hide=stars"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0E75B6&icon_color=0E75B6&text_color=1C2128&count_private=true&hide=stars"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F0F6FC&title_color=0E75B6&text_color=1C2128&langs_count=6"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=0E75B6&text_color=1C2128&langs_count=6"/>
 
 </div>
 
